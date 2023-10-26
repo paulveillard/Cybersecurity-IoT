@@ -4,6 +4,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources
 
 
+## `Theory` - Table of Contents
 
 
 IoT cybersecurity is the practice of protecting devices and networks that connect to the internet, such as smart home appliances, medical devices, or industrial systems.
